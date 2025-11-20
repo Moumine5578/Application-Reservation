@@ -12,7 +12,7 @@ class HomeScreen extends StatelessWidget {
       body: const Center(
         child: Text(
           "Liste des spectacles bientôt ici...",
-          style: TextStyle(fontSize: 20),
+          style: TextStyle(fontSize: 80),
         ),
       ),
     );
